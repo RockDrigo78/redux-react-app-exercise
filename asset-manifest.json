@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redux-react-app-exercise/static/css/main.5c71d519.chunk.css",
+    "main.js": "/redux-react-app-exercise/static/js/main.c4164757.chunk.js",
+    "main.js.map": "/redux-react-app-exercise/static/js/main.c4164757.chunk.js.map",
+    "runtime-main.js": "/redux-react-app-exercise/static/js/runtime-main.8318df93.js",
+    "runtime-main.js.map": "/redux-react-app-exercise/static/js/runtime-main.8318df93.js.map",
+    "static/js/2.1a5ee8df.chunk.js": "/redux-react-app-exercise/static/js/2.1a5ee8df.chunk.js",
+    "static/js/2.1a5ee8df.chunk.js.map": "/redux-react-app-exercise/static/js/2.1a5ee8df.chunk.js.map",
+    "index.html": "/redux-react-app-exercise/index.html",
+    "precache-manifest.271a191e491f0290367324174789d93e.js": "/redux-react-app-exercise/precache-manifest.271a191e491f0290367324174789d93e.js",
+    "service-worker.js": "/redux-react-app-exercise/service-worker.js",
+    "static/css/main.5c71d519.chunk.css.map": "/redux-react-app-exercise/static/css/main.5c71d519.chunk.css.map",
+    "static/js/2.1a5ee8df.chunk.js.LICENSE.txt": "/redux-react-app-exercise/static/js/2.1a5ee8df.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/redux-react-app-exercise/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8318df93.js",
+    "static/js/2.1a5ee8df.chunk.js",
+    "static/css/main.5c71d519.chunk.css",
+    "static/js/main.c4164757.chunk.js"
+  ]
+}
